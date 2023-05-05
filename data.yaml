@@ -1,0 +1,41 @@
+train: ../../Dataset_new/train/images
+val: ../../Dataset_new/valid/images
+test: ../../Dataset_new/test/images
+
+nc: 33
+names:
+  [
+    "Audi",
+    "Chrysler",
+    "Citroen",
+    "GMC",
+    "Honda",
+    "Hyundai",
+    "Infiniti",
+    "Mazda",
+    "Mercedes",
+    "Mercury",
+    "Mitsubishi",
+    "Nissan",
+    "Renault",
+    "Toyota",
+    "Volkswagen",
+    "acura",
+    "bmw",
+    "cadillac",
+    "chevrolet",
+    "dodge",
+    "ford",
+    "jeep",
+    "kia",
+    "lexus",
+    "lincoln",
+    "mini",
+    "porsche",
+    "ram",
+    "range rover",
+    "skoda",
+    "subaru",
+    "suzuki",
+    "volvo",
+  ]
